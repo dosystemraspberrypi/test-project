@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-boilerplate",
-    "slug": "react-native-boilerplate",
+    "name": "test-project",
+    "slug": "test-project",
     "privacy": "public",
     "platforms": [
       "ios",

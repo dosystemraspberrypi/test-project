@@ -33,11 +33,11 @@ export default function Home() {
       setIsLoading(false)
     }
   }
-  
+
   return (
     <ScreenTemplate>
       <View style={styles.root}>
-        <Text style={styles.title}>Home</Text>
+        <Text style={styles.title}>test project Home</Text>
         <View style={styles.textContainer}>
           <Text>ヘッダーなしボトムタブあり</Text>
         </View>
